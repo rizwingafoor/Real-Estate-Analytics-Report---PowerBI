@@ -1,4 +1,4 @@
-# 🏙️ Real Estate Analytics Report — Power BI Dashboard
+# 🏙️ Real Estate Analytics Report 
 
 A comprehensive Power BI dashboard analyzing real estate performance across **5 major US cities** — New York, Miami, Los Angeles, Chicago, and Houston.
 
